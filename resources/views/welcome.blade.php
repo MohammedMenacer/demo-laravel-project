@@ -9,8 +9,7 @@
 </head>
 
 <body>
-    <h1>I am Mohammed Menacer</h1>
-    <p>Lorem ipsum dolor sit amet.</p>
+    <h1>I like Algeria</h1>
 </body>
 
 </html>
