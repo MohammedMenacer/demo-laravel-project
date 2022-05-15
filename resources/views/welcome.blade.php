@@ -16,6 +16,7 @@
     <h5>Mohammed Menacer is me</h5>
     <h6>Mohammed Menacer is me</h6>
     <p>Lorem ipsum dolor sit amet.</p>
+    <p>Algeria is in north Africa</p>
 </body>
 
 </html>
