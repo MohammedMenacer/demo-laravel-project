@@ -15,6 +15,7 @@
     <h4>Algeria is a big country</h4>
     <h5>Mohammed Menacer is me</h5>
     <h6>Mohammed Menacer is me</h6>
+    <p>Lorem ipsum dolor sit amet.</p>
 </body>
 
 </html>
